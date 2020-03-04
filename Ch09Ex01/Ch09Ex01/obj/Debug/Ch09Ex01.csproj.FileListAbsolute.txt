@@ -1,0 +1,6 @@
+C:\Users\Owner\Desktop\01ALP\00003MODULE\Ch09Ex01\Ch09Ex01\bin\Debug\Ch09Ex01.exe.config
+C:\Users\Owner\Desktop\01ALP\00003MODULE\Ch09Ex01\Ch09Ex01\bin\Debug\Ch09Ex01.exe
+C:\Users\Owner\Desktop\01ALP\00003MODULE\Ch09Ex01\Ch09Ex01\bin\Debug\Ch09Ex01.pdb
+C:\Users\Owner\Desktop\01ALP\00003MODULE\Ch09Ex01\Ch09Ex01\obj\Debug\Ch09Ex01.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\01ALP\00003MODULE\Ch09Ex01\Ch09Ex01\obj\Debug\Ch09Ex01.exe
+C:\Users\Owner\Desktop\01ALP\00003MODULE\Ch09Ex01\Ch09Ex01\obj\Debug\Ch09Ex01.pdb
