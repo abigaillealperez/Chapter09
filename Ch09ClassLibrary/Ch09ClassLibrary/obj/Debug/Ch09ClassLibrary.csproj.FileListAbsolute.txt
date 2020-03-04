@@ -1,0 +1,5 @@
+C:\Users\Owner\Desktop\01ALP\00003MODULE\Chapter09\Ch09ClassLibrary\Ch09ClassLibrary\bin\Debug\Ch09ClassLibrary.dll
+C:\Users\Owner\Desktop\01ALP\00003MODULE\Chapter09\Ch09ClassLibrary\Ch09ClassLibrary\bin\Debug\Ch09ClassLibrary.pdb
+C:\Users\Owner\Desktop\01ALP\00003MODULE\Chapter09\Ch09ClassLibrary\Ch09ClassLibrary\obj\Debug\Ch09ClassLibrary.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\01ALP\00003MODULE\Chapter09\Ch09ClassLibrary\Ch09ClassLibrary\obj\Debug\Ch09ClassLibrary.dll
+C:\Users\Owner\Desktop\01ALP\00003MODULE\Chapter09\Ch09ClassLibrary\Ch09ClassLibrary\obj\Debug\Ch09ClassLibrary.pdb
