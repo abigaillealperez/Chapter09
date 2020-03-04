@@ -1,0 +1,9 @@
+C:\Users\Owner\Desktop\01ALP\00003MODULE\Chapter09\Ch09Ex02\Ch09Ex02\bin\Debug\Ch09Ex02.exe.config
+C:\Users\Owner\Desktop\01ALP\00003MODULE\Chapter09\Ch09Ex02\Ch09Ex02\bin\Debug\Ch09Ex02.exe
+C:\Users\Owner\Desktop\01ALP\00003MODULE\Chapter09\Ch09Ex02\Ch09Ex02\bin\Debug\Ch09Ex02.pdb
+C:\Users\Owner\Desktop\01ALP\00003MODULE\Chapter09\Ch09Ex02\Ch09Ex02\bin\Debug\Ch09ClassLibrary.dll
+C:\Users\Owner\Desktop\01ALP\00003MODULE\Chapter09\Ch09Ex02\Ch09Ex02\bin\Debug\Ch09ClassLibrary.pdb
+C:\Users\Owner\Desktop\01ALP\00003MODULE\Chapter09\Ch09Ex02\Ch09Ex02\obj\Debug\Ch09Ex02.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\01ALP\00003MODULE\Chapter09\Ch09Ex02\Ch09Ex02\obj\Debug\Ch09Ex02.csproj.CopyComplete
+C:\Users\Owner\Desktop\01ALP\00003MODULE\Chapter09\Ch09Ex02\Ch09Ex02\obj\Debug\Ch09Ex02.exe
+C:\Users\Owner\Desktop\01ALP\00003MODULE\Chapter09\Ch09Ex02\Ch09Ex02\obj\Debug\Ch09Ex02.pdb
